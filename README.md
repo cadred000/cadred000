@@ -1,4 +1,4 @@
-- im just here for the beer.
+- zing badabah!
 - 📫 cadred000@pm.me
 
 <!---
