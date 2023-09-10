@@ -1,4 +1,4 @@
-- zing badabah!
+-> wherever you go, there you are <-
 - 📫 cadred000@pm.me
 
 <!---
