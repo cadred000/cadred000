@@ -1,4 +1,4 @@
-Current student at Arizona State University.  Applied Mathematics BS with a minor in Applied Computing class of '24. Right now I am working on my Masters in Robotics and Autonomous Systems.  I am interested in Robotics, Machine Learning, Statistics and Mathematics.
+Current student at Arizona State University.  Applied Mathematics BS with a minor in Applied Computing class of '24. Right now I am working on my Computer Science (Big Data Systems) McS.  I am interested in Data Science, Machine Learning, Statistics and Mathematics.
 
 -> wherever you go, there you are <-
 - 📫 cadred000@pm.me
